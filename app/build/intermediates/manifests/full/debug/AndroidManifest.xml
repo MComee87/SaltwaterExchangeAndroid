@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.boonex.oo"
+    android:versionCode="1930"
+    android:versionName="1.9.3" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="26" />
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:smallScreens="true" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <uses-permission android:name="com.boonex.oo.permission.MAPS_RECEIVE" />
+
+    <uses-permission-sdk-23 android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission-sdk-23 android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission-sdk-23 android:name="android.permission.CAMERA" />
+    <uses-permission-sdk-23 android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission-sdk-23 android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="false" />
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:supportsRtl="true"
+        android:theme="@style/MyTheme" >
+
+        <!-- Facebook APP ID http://developers.facebook.com/android/ -->
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="fb{your-facebook-app-id}" />
+
+        <!-- Google API Key https://code.google.com/apis/console/ Services "Google Maps Android API" -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="{your-google-maps-key}-i9IQU" />
+
+        <provider
+            android:name="android.support.v4.content.FileProvider"
+            android:authorities="com.example.android.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true" >
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" />
+        </provider>
+
+        <activity
+            android:name="com.facebook.FacebookActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:label="@string/app_name"
+            android:theme="@style/com_facebook_activity_theme" />
+        <activity
+            android:name="com.boonex.oo.Main"
+            android:configChanges="orientation|keyboardHidden"
+            android:icon="@drawable/icon"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.boonex.oo.LoginActivity"
+            android:configChanges="orientation|keyboardHidden" />
+        <activity
+            android:name="com.boonex.oo.home.HomeActivity"
+            android:configChanges="orientation|keyboardHidden" />
+        <activity
+            android:name="com.boonex.oo.SiteAddActivity"
+            android:configChanges="orientation|keyboardHidden" />
+        <activity
+            android:name="com.boonex.oo.home.WebPageActivity"
+            android:configChanges="orientation|keyboardHidden" />
+        <activity
+            android:name="com.boonex.oo.UserPickerActivity"
+            android:configChanges="orientation|keyboardHidden" />
+        <activity
+            android:name="com.boonex.oo.CountryPickerActivity"
+            android:configChanges="orientation|keyboardHidden" />
+        <activity
+            android:name="com.boonex.oo.about.AboutActivity"
+            android:configChanges="orientation|keyboardHidden" />
+        <activity
+            android:name="com.boonex.oo.status.StatusMessageActivity"
+            android:configChanges="orientation|keyboardHidden" />
+        <activity
+            android:name="com.boonex.oo.location.LocationActivity"
+            android:configChanges="orientation|keyboardHidden" />
+        <activity
+            android:name="com.boonex.oo.mail.MailHomeActivity"
+            android:configChanges="orientation|keyboardHidden" />
+        <activity
+            android:name="com.boonex.oo.mail.MailMessagesActivity"
+            android:configChanges="orientation|keyboardHidden" />
+        <activity
+            android:name="com.boonex.oo.mail.MailMessageActivity"
+            android:configChanges="orientation|keyboardHidden" />
+        <activity
+            android:name="com.boonex.oo.mail.MailComposeActivity"
+            android:configChanges="orientation|keyboardHidden" />
+        <activity
+            android:name="com.boonex.oo.friends.FriendsHomeActivity"
+            android:configChanges="orientation|keyboardHidden" />
+        <activity
+            android:name="com.boonex.oo.friends.FriendsActivity"
+            android:configChanges="orientation|keyboardHidden" />
+        <activity
+            android:name="com.boonex.oo.friends.FriendRequestsActivity"
+            android:configChanges="orientation|keyboardHidden" />
+        <activity
+            android:name="com.boonex.oo.profile.ProfileActivity"
+            android:configChanges="orientation|keyboardHidden" />
+        <activity
+            android:name="com.boonex.oo.profile.ProfileInfoActivity"
+            android:configChanges="orientation|keyboardHidden" />
+        <activity
+            android:name="com.boonex.oo.media.ImagesAlbumsActivity"
+            android:configChanges="orientation|keyboardHidden" />
+        <activity
+            android:name="com.boonex.oo.media.ImagesFilesActivity"
+            android:configChanges="orientation|keyboardHidden" />
+        <activity
+            android:name="com.boonex.oo.media.VideosAlbumsActivity"
+            android:configChanges="orientation|keyboardHidden" />
+        <activity
+            android:name="com.boonex.oo.media.VideosFilesActivity"
+            android:configChanges="orientation|keyboardHidden" />
+        <activity
+            android:name="com.boonex.oo.media.SoundsAlbumsActivity"
+            android:configChanges="orientation|keyboardHidden" />
+        <activity
+            android:name="com.boonex.oo.media.SoundsFilesActivity"
+            android:configChanges="orientation|keyboardHidden" />
+        <activity
+            android:name="com.boonex.oo.media.ImagesGallery"
+            android:configChanges="orientation|keyboardHidden" />
+        <activity
+            android:name="com.boonex.oo.media.AddImageActivity"
+            android:configChanges="orientation|keyboardHidden" />
+        <activity
+            android:name="com.boonex.oo.media.AddVideoActivity"
+            android:configChanges="orientation|keyboardHidden" />
+        <activity
+            android:name="com.boonex.oo.search.SearchHomeActivity"
+            android:configChanges="orientation|keyboardHidden" />
+        <activity
+            android:name="com.boonex.oo.search.SearchKeywordActivity"
+            android:configChanges="orientation|keyboardHidden" />
+        <activity
+            android:name="com.boonex.oo.search.SearchResultsKeywordActivity"
+            android:configChanges="orientation|keyboardHidden" />
+        <activity
+            android:name="com.boonex.oo.search.SearchNearMeActivity"
+            android:configChanges="orientation|keyboardHidden" />
+        <activity
+            android:name="com.boonex.oo.search.SearchResultsNearMeActivity"
+            android:configChanges="orientation|keyboardHidden" />
+        <activity
+            android:name="com.boonex.oo.search.SearchLocationActivity"
+            android:configChanges="orientation|keyboardHidden" />
+        <activity
+            android:name="com.boonex.oo.search.SearchResultsLocationActivity"
+            android:configChanges="orientation|keyboardHidden" />
+        <activity android:name="com.facebook.CustomTabMainActivity" />
+        <activity android:name="com.facebook.CustomTabActivity" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <provider
+            android:name="com.facebook.marketing.internal.MarketingInitProvider"
+            android:authorities="com.boonex.oo.MarketingInitProvider"
+            android:exported="false" />
+        <!--
+         The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically
+         with the application context. This config is merged in with the host app's manifest,
+         but there can only be one provider with the same authority activated at any given
+         point; so if the end user has two or more different apps that use Facebook SDK, only the
+         first one will be able to use the provider. To work around this problem, we use the
+         following placeholder in the authority to identify each host application as if it was
+         a completely different provider.
+        -->
+        <provider
+            android:name="com.facebook.internal.FacebookInitProvider"
+            android:authorities="com.boonex.oo.FacebookInitProvider"
+            android:exported="false" />
+
+        <receiver
+            android:name="com.facebook.CurrentAccessTokenExpirationBroadcastReceiver"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

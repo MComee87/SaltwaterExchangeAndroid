@@ -1,0 +1,533 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:2:1-96:12
+INJECTED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:2:1-96:12
+INJECTED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:2:1-96:12
+INJECTED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:2:1-96:12
+MERGED from [com.facebook.android:facebook-android-sdk:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.36.0.aar\424fc9e56c48095e880dfe03e8129d37\AndroidManifest.xml:21:1-31:12
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\play-services-maps-8.4.0.aar\071dc87041f9e6f98f440f499b67343c\AndroidManifest.xml:16:1-28:12
+MERGED from [com.facebook.android:facebook-login:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-login-4.36.0.aar\8e434f4d7122bffe4ec48a695ca5fdbb\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-share:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-share-4.36.0.aar\0637aba269612e6b5f4c777702a071ad\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-common-4.36.0.aar\ed220ac9f36d03a45bbf36ead60536ef\AndroidManifest.xml:21:1-37:12
+MERGED from [com.google.android.gms:play-services-base:8.4.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\play-services-base-8.4.0.aar\399694fd3639e20e5379df7bbbb97ed0\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.4.0.aar\1ba20478fa8d59d7b40003f65a596457\AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\1a07fe3aad313b4dc0705f764300e766\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.android:facebook-places:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-places-4.36.0.aar\31e61add0ae25ce61bb40f905b43c627\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-applinks:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.36.0.aar\16a958da79787cf8f82d8b28b06af2f1\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-messenger:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.36.0.aar\a81421809261a1d2dca997b601922976\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-marketing:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-marketing-4.36.0.aar\36d65ffceff709b8b986a90012f914b7\AndroidManifest.xml:21:1-35:12
+MERGED from [com.facebook.android:facebook-core:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-core-4.36.0.aar\d023dab333c6df9b56bc45f61a74be52\AndroidManifest.xml:21:1-53:12
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\customtabs-27.0.2.aar\fe4b36f319b695fdee5edb79c42bcc87\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\eaecf52abc7f8f93067973d10ca331b6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\cafad9674f4709bd43da97f71fd1fd18\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\f481cf34c8394b8126375921d45a1fd7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\b981cee9b645547ea28756d66babc4ac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\03e0b6c0e040d430b545ac90423250e2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\b1c296d24db7abf2c2d2da691029ffa0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\252633674bab4f0c0130a64b60396d0e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\5fd107c69d8d4aba13c268c75c74102d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\c7f5c107cfb6adb50e43d785f5e4bc85\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\c040050d67c16e3255c29e16e3f011c3\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:2:1-96:12
+INJECTED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:2:1-96:12
+INJECTED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:2:1-96:12
+	package
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:3:7-30
+		INJECTED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:5:7-34
+		INJECTED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:4:7-33
+		INJECTED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:7:2-71
+INJECTED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:7:2-71
+INJECTED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:7:2-71
+MERGED from [com.facebook.android:facebook-android-sdk:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.36.0.aar\424fc9e56c48095e880dfe03e8129d37\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.36.0.aar\424fc9e56c48095e880dfe03e8129d37\AndroidManifest.xml:24:5-26:41
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\play-services-maps-8.4.0.aar\071dc87041f9e6f98f440f499b67343c\AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\play-services-maps-8.4.0.aar\071dc87041f9e6f98f440f499b67343c\AndroidManifest.xml:26:5-42
+MERGED from [com.facebook.android:facebook-login:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-login-4.36.0.aar\8e434f4d7122bffe4ec48a695ca5fdbb\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-login-4.36.0.aar\8e434f4d7122bffe4ec48a695ca5fdbb\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-share-4.36.0.aar\0637aba269612e6b5f4c777702a071ad\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-share-4.36.0.aar\0637aba269612e6b5f4c777702a071ad\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-common-4.36.0.aar\ed220ac9f36d03a45bbf36ead60536ef\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-common-4.36.0.aar\ed220ac9f36d03a45bbf36ead60536ef\AndroidManifest.xml:24:5-26:41
+MERGED from [com.google.android.gms:play-services-base:8.4.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\play-services-base-8.4.0.aar\399694fd3639e20e5379df7bbbb97ed0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\play-services-base-8.4.0.aar\399694fd3639e20e5379df7bbbb97ed0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.4.0.aar\1ba20478fa8d59d7b40003f65a596457\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.4.0.aar\1ba20478fa8d59d7b40003f65a596457\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\1a07fe3aad313b4dc0705f764300e766\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\1a07fe3aad313b4dc0705f764300e766\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-places:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-places-4.36.0.aar\31e61add0ae25ce61bb40f905b43c627\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-places:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-places-4.36.0.aar\31e61add0ae25ce61bb40f905b43c627\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.36.0.aar\16a958da79787cf8f82d8b28b06af2f1\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.36.0.aar\16a958da79787cf8f82d8b28b06af2f1\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.36.0.aar\a81421809261a1d2dca997b601922976\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.36.0.aar\a81421809261a1d2dca997b601922976\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-marketing:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-marketing-4.36.0.aar\36d65ffceff709b8b986a90012f914b7\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-marketing:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-marketing-4.36.0.aar\36d65ffceff709b8b986a90012f914b7\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-core-4.36.0.aar\d023dab333c6df9b56bc45f61a74be52\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-core-4.36.0.aar\d023dab333c6df9b56bc45f61a74be52\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\customtabs-27.0.2.aar\fe4b36f319b695fdee5edb79c42bcc87\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\customtabs-27.0.2.aar\fe4b36f319b695fdee5edb79c42bcc87\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\eaecf52abc7f8f93067973d10ca331b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\eaecf52abc7f8f93067973d10ca331b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\cafad9674f4709bd43da97f71fd1fd18\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\cafad9674f4709bd43da97f71fd1fd18\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\f481cf34c8394b8126375921d45a1fd7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\f481cf34c8394b8126375921d45a1fd7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\b981cee9b645547ea28756d66babc4ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\b981cee9b645547ea28756d66babc4ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\03e0b6c0e040d430b545ac90423250e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\03e0b6c0e040d430b545ac90423250e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\b1c296d24db7abf2c2d2da691029ffa0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\b1c296d24db7abf2c2d2da691029ffa0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\252633674bab4f0c0130a64b60396d0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\252633674bab4f0c0130a64b60396d0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\5fd107c69d8d4aba13c268c75c74102d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\5fd107c69d8d4aba13c268c75c74102d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\c7f5c107cfb6adb50e43d785f5e4bc85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\c7f5c107cfb6adb50e43d785f5e4bc85\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\c040050d67c16e3255c29e16e3f011c3\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\c040050d67c16e3255c29e16e3f011c3\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:7:2-71
+INJECTED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:7:2-71
+	android:targetSdkVersion
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:7:39-68
+		INJECTED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:7:12-38
+		INJECTED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml
+supports-screens
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:9:2-133
+	android:largeScreens
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:9:77-104
+	android:smallScreens
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:9:20-47
+	android:normalScreens
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:9:48-76
+	android:anyDensity
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:9:105-130
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:11:2-64
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\play-services-maps-8.4.0.aar\071dc87041f9e6f98f440f499b67343c\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\play-services-maps-8.4.0.aar\071dc87041f9e6f98f440f499b67343c\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:11:19-61
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:12:22-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:13:2-75
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\play-services-maps-8.4.0.aar\071dc87041f9e6f98f440f499b67343c\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\play-services-maps-8.4.0.aar\071dc87041f9e6f98f440f499b67343c\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:13:19-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:14:2-78
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:14:19-75
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:15:2-77
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:15:19-74
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:16:2-78
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:16:19-75
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:17:2-76
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:17:19-73
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:18:5-97
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:18:22-95
+uses-permission#com.boonex.oo.permission.MAPS_RECEIVE
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:19:5-76
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:19:22-74
+uses-permission-sdk-23#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:21:2-85
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:21:26-82
+uses-permission-sdk-23#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:22:2-83
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:22:26-80
+uses-permission-sdk-23#android.permission.CAMERA
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:23:2-69
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:23:26-66
+uses-permission-sdk-23#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:24:2-85
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:24:26-82
+uses-permission-sdk-23#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:25:2-84
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:25:26-81
+uses-feature#android.hardware.camera
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:28:2-82
+	android:required
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:28:55-79
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:28:16-54
+application
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:30:5-94:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.36.0.aar\424fc9e56c48095e880dfe03e8129d37\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.36.0.aar\424fc9e56c48095e880dfe03e8129d37\AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\play-services-maps-8.4.0.aar\071dc87041f9e6f98f440f499b67343c\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\play-services-maps-8.4.0.aar\071dc87041f9e6f98f440f499b67343c\AndroidManifest.xml:27:5-20
+MERGED from [com.facebook.android:facebook-login:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-login-4.36.0.aar\8e434f4d7122bffe4ec48a695ca5fdbb\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-login-4.36.0.aar\8e434f4d7122bffe4ec48a695ca5fdbb\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-share-4.36.0.aar\0637aba269612e6b5f4c777702a071ad\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-share-4.36.0.aar\0637aba269612e6b5f4c777702a071ad\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-common-4.36.0.aar\ed220ac9f36d03a45bbf36ead60536ef\AndroidManifest.xml:28:5-35:19
+MERGED from [com.facebook.android:facebook-common:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-common-4.36.0.aar\ed220ac9f36d03a45bbf36ead60536ef\AndroidManifest.xml:28:5-35:19
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.4.0.aar\1ba20478fa8d59d7b40003f65a596457\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.4.0.aar\1ba20478fa8d59d7b40003f65a596457\AndroidManifest.xml:20:5-24:19
+MERGED from [com.facebook.android:facebook-places:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-places-4.36.0.aar\31e61add0ae25ce61bb40f905b43c627\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-places:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-places-4.36.0.aar\31e61add0ae25ce61bb40f905b43c627\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.36.0.aar\16a958da79787cf8f82d8b28b06af2f1\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.36.0.aar\16a958da79787cf8f82d8b28b06af2f1\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.36.0.aar\a81421809261a1d2dca997b601922976\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.36.0.aar\a81421809261a1d2dca997b601922976\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-marketing:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-marketing-4.36.0.aar\36d65ffceff709b8b986a90012f914b7\AndroidManifest.xml:28:5-33:19
+MERGED from [com.facebook.android:facebook-marketing:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-marketing-4.36.0.aar\36d65ffceff709b8b986a90012f914b7\AndroidManifest.xml:28:5-33:19
+MERGED from [com.facebook.android:facebook-core:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-core-4.36.0.aar\d023dab333c6df9b56bc45f61a74be52\AndroidManifest.xml:28:5-51:19
+MERGED from [com.facebook.android:facebook-core:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-core-4.36.0.aar\d023dab333c6df9b56bc45f61a74be52\AndroidManifest.xml:28:5-51:19
+	android:supportsRtl
+		ADDED from [com.facebook.android:facebook-android-sdk:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.36.0.aar\424fc9e56c48095e880dfe03e8129d37\AndroidManifest.xml:28:18-44
+	android:label
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:30:48-80
+	android:largeHeap
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:30:139-163
+	android:icon
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:30:18-47
+	android:allowBackup
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:30:112-138
+	android:theme
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:30:81-111
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:34:6-105
+	android:value
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:34:63-103
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:34:17-62
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:37:3-107
+	android:value
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:37:60-104
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:37:14-59
+provider#android.support.v4.content.FileProvider
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:39:3-47:14
+	android:grantUriPermissions
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:43:4-38
+	android:authorities
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:41:4-58
+	android:exported
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:42:4-28
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:40:4-58
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:44:4-46:52
+	android:resource
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:46:5-39
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:45:5-55
+activity#com.facebook.FacebookActivity
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:49:3-52:39
+MERGED from [com.facebook.android:facebook-common:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-common-4.36.0.aar\ed220ac9f36d03a45bbf36ead60536ef\AndroidManifest.xml:29:9-32:66
+MERGED from [com.facebook.android:facebook-common:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-common-4.36.0.aar\ed220ac9f36d03a45bbf36ead60536ef\AndroidManifest.xml:29:9-32:66
+	android:label
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:52:4-36
+	android:configChanges
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:50:4-92
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-common-4.36.0.aar\ed220ac9f36d03a45bbf36ead60536ef\AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:49:13-57
+activity#com.boonex.oo.Main
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:54:9-59:20
+	android:label
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:54:40-72
+	android:configChanges
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:54:103-153
+	android:icon
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:54:73-102
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:54:19-39
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:55:13-58:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:56:17-69
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:56:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:57:17-77
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:57:27-74
+activity#com.boonex.oo.LoginActivity
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:60:6-98
+	android:configChanges
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:60:45-95
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:60:16-44
+activity#com.boonex.oo.home.HomeActivity
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:61:3-100
+	android:configChanges
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:61:47-97
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:61:13-46
+activity#com.boonex.oo.SiteAddActivity
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:62:3-97
+	android:configChanges
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:62:44-94
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:62:13-43
+activity#com.boonex.oo.home.WebPageActivity
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:63:3-103
+	android:configChanges
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:63:50-100
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:63:13-49
+activity#com.boonex.oo.UserPickerActivity
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:64:3-101
+	android:configChanges
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:64:48-98
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:64:13-47
+activity#com.boonex.oo.CountryPickerActivity
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:65:3-104
+	android:configChanges
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:65:51-101
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:65:13-50
+activity#com.boonex.oo.about.AboutActivity
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:66:3-102
+	android:configChanges
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:66:49-99
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:66:13-48
+activity#com.boonex.oo.status.StatusMessageActivity
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:67:3-111
+	android:configChanges
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:67:58-108
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:67:13-57
+activity#com.boonex.oo.location.LocationActivity
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:68:3-108
+	android:configChanges
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:68:55-105
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:68:13-54
+activity#com.boonex.oo.mail.MailHomeActivity
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:69:3-105
+	android:configChanges
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:69:52-102
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:69:13-50
+activity#com.boonex.oo.mail.MailMessagesActivity
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:70:3-108
+	android:configChanges
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:70:55-105
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:70:13-54
+activity#com.boonex.oo.mail.MailMessageActivity
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:71:3-107
+	android:configChanges
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:71:54-104
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:71:13-53
+activity#com.boonex.oo.mail.MailComposeActivity
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:72:3-107
+	android:configChanges
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:72:54-104
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:72:13-53
+activity#com.boonex.oo.friends.FriendsHomeActivity
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:73:3-110
+	android:configChanges
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:73:57-107
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:73:13-56
+activity#com.boonex.oo.friends.FriendsActivity
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:74:3-106
+	android:configChanges
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:74:53-103
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:74:13-52
+activity#com.boonex.oo.friends.FriendRequestsActivity
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:75:3-113
+	android:configChanges
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:75:60-110
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:75:13-59
+activity#com.boonex.oo.profile.ProfileActivity
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:76:3-106
+	android:configChanges
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:76:53-103
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:76:13-52
+activity#com.boonex.oo.profile.ProfileInfoActivity
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:77:3-110
+	android:configChanges
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:77:57-107
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:77:13-56
+activity#com.boonex.oo.media.ImagesAlbumsActivity
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:78:3-109
+	android:configChanges
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:78:56-106
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:78:13-55
+activity#com.boonex.oo.media.ImagesFilesActivity
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:79:3-108
+	android:configChanges
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:79:55-105
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:79:13-54
+activity#com.boonex.oo.media.VideosAlbumsActivity
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:80:3-109
+	android:configChanges
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:80:56-106
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:80:13-55
+activity#com.boonex.oo.media.VideosFilesActivity
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:81:3-108
+	android:configChanges
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:81:55-105
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:81:13-54
+activity#com.boonex.oo.media.SoundsAlbumsActivity
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:82:3-109
+	android:configChanges
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:82:56-106
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:82:13-55
+activity#com.boonex.oo.media.SoundsFilesActivity
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:83:3-108
+	android:configChanges
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:83:55-105
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:83:13-54
+activity#com.boonex.oo.media.ImagesGallery
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:84:3-102
+	android:configChanges
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:84:49-99
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:84:13-48
+activity#com.boonex.oo.media.AddImageActivity
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:85:3-105
+	android:configChanges
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:85:52-102
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:85:13-51
+activity#com.boonex.oo.media.AddVideoActivity
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:86:3-105
+	android:configChanges
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:86:52-102
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:86:13-51
+activity#com.boonex.oo.search.SearchHomeActivity
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:87:3-108
+	android:configChanges
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:87:55-105
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:87:13-54
+activity#com.boonex.oo.search.SearchKeywordActivity
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:88:3-111
+	android:configChanges
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:88:58-108
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:88:13-57
+activity#com.boonex.oo.search.SearchResultsKeywordActivity
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:89:3-118
+	android:configChanges
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:89:65-115
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:89:13-64
+activity#com.boonex.oo.search.SearchNearMeActivity
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:90:3-110
+	android:configChanges
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:90:57-107
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:90:13-56
+activity#com.boonex.oo.search.SearchResultsNearMeActivity
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:91:3-117
+	android:configChanges
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:91:64-114
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:91:13-63
+activity#com.boonex.oo.search.SearchLocationActivity
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:92:3-112
+	android:configChanges
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:92:59-109
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:92:13-58
+activity#com.boonex.oo.search.SearchResultsLocationActivity
+ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:93:3-119
+	android:configChanges
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:93:66-116
+	android:name
+		ADDED from C:\Users\obmon\Documents\web-dev\saltwater-exchange\Dolphin7-Android-Src-v.1.9.3\Dolphin7-Android-Src-v.1.9.3\app\src\main\AndroidManifest.xml:93:13-65
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\play-services-maps-8.4.0.aar\071dc87041f9e6f98f440f499b67343c\AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\play-services-maps-8.4.0.aar\071dc87041f9e6f98f440f499b67343c\AndroidManifest.xml:23:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\play-services-maps-8.4.0.aar\071dc87041f9e6f98f440f499b67343c\AndroidManifest.xml:24:8-31
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-common-4.36.0.aar\ed220ac9f36d03a45bbf36ead60536ef\AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-common-4.36.0.aar\ed220ac9f36d03a45bbf36ead60536ef\AndroidManifest.xml:33:19-68
+activity#com.facebook.CustomTabActivity
+ADDED from [com.facebook.android:facebook-common:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-common-4.36.0.aar\ed220ac9f36d03a45bbf36ead60536ef\AndroidManifest.xml:34:9-67
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-common-4.36.0.aar\ed220ac9f36d03a45bbf36ead60536ef\AndroidManifest.xml:34:19-64
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.4.0.aar\1ba20478fa8d59d7b40003f65a596457\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.4.0.aar\1ba20478fa8d59d7b40003f65a596457\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.4.0.aar\1ba20478fa8d59d7b40003f65a596457\AndroidManifest.xml:22:13-58
+provider#com.facebook.marketing.internal.MarketingInitProvider
+ADDED from [com.facebook.android:facebook-marketing:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-marketing-4.36.0.aar\36d65ffceff709b8b986a90012f914b7\AndroidManifest.xml:29:9-32:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-marketing:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-marketing-4.36.0.aar\36d65ffceff709b8b986a90012f914b7\AndroidManifest.xml:31:13-73
+	android:exported
+		ADDED from [com.facebook.android:facebook-marketing:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-marketing-4.36.0.aar\36d65ffceff709b8b986a90012f914b7\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-marketing:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-marketing-4.36.0.aar\36d65ffceff709b8b986a90012f914b7\AndroidManifest.xml:30:13-81
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-core-4.36.0.aar\d023dab333c6df9b56bc45f61a74be52\AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-core-4.36.0.aar\d023dab333c6df9b56bc45f61a74be52\AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-core-4.36.0.aar\d023dab333c6df9b56bc45f61a74be52\AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-core-4.36.0.aar\d023dab333c6df9b56bc45f61a74be52\AndroidManifest.xml:40:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-core-4.36.0.aar\d023dab333c6df9b56bc45f61a74be52\AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-core-4.36.0.aar\d023dab333c6df9b56bc45f61a74be52\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-core-4.36.0.aar\d023dab333c6df9b56bc45f61a74be52\AndroidManifest.xml:45:13-86
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-core-4.36.0.aar\d023dab333c6df9b56bc45f61a74be52\AndroidManifest.xml:47:13-49:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-core-4.36.0.aar\d023dab333c6df9b56bc45f61a74be52\AndroidManifest.xml:48:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.36.0] C:\Users\obmon\.gradle\caches\transforms-1\files-1.1\facebook-core-4.36.0.aar\d023dab333c6df9b56bc45f61a74be52\AndroidManifest.xml:48:25-92
